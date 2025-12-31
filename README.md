@@ -1,5 +1,11 @@
 # ✈ Airline Customer Satisfaction Prediction
 
+[![Project PDF Preview](pdf_preview.png)](Airline-Customer-Satisfaction-Prediction.pdf)
+
+📄 **[Click here to view the full project PDF](Airline-Customer-Satisfaction-Prediction.pdf)**
+
+---
+
 This project predicts airline customer satisfaction using a Decision Tree
 classification model.
 
